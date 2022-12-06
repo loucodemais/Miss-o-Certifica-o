@@ -1,4 +1,9 @@
 # Missão-Certificação
+Luiz Gabriel Jung - 202211414815@alunos.estacio.br
+
+Geizon Junior Flores Vilar Guimarães Gomes - 202211350541@alunos.estacio.br
+
+
 Projeto de uma aplicação desktop feita em python com o objetivo de adcionar/editar/remover dados de um banco de dados utilizando uma interface visual feita em [python](https://www.python.org/)
 
 Você pode baixar o aplicativo executavel [clicando aqui](https://drive.google.com/u/0/uc?id=16LPYoA6x_xp54xjWOoaW9dcYI6hfvGA8&export=download) ou visualizar o código fonte [clicando aqui](teste.py).
@@ -20,4 +25,4 @@ pip install PyQt5 pandas validate_docbr openpyxl
 
 Após instalar o python e as bibliotecas basta clicar 2 vezes no arquivo teste.py
 
-Demonstração do funcionamento: [vídeo]()
+Demonstração do funcionamento: [vídeo](https://www.youtube.com/watch?v=WWKR2h-vSnw)
